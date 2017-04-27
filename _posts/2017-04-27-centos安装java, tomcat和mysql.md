@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "centos 安装 java, tomcat 和 mysql"
 date: 2017-04-27
