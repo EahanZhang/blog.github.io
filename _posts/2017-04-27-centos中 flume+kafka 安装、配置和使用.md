@@ -1,8 +1,9 @@
-﻿# centos中 flume + kafka 安装、配置和使用
-
-标签（空格分隔）： flume kafka
-
+﻿---
+layout: post
+title: "centos中 flume+kafka 安装、配置和使用"
+date: 2017-04-27
 ---
+
 ## 简介
 flume - flume是一个可高效收集数据并将数据移动到集中式数据存储中的分布式系统。
 kafka - kafka是一个分布式的消息系统，其优点是高吞吐率和可水平扩展，并且在保持高吞吐率的同时，时间复杂度为O(1)。

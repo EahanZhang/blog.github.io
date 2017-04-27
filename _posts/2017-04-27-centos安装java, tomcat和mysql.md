@@ -1,8 +1,8 @@
-﻿#centos 安装java, tomcat和mysql
-
-标签（空格分隔）： web开发 环境配置
-
+﻿---
+layout: post
+title: "centos 安装 java, tomcat 和 mysql"
 ---
+
 
 ## 安装Java
 ### 1. 在线安装java

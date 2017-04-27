@@ -1,4 +1,10 @@
-﻿# Apache Flume学习笔记
+﻿---
+layout: post
+title: "apache flume 学习笔记"
+date: 2017-04-27
+---
+
+# Apache Flume学习笔记
 
 标签（空格分隔）： 分布式 日志聚合系统
 
