@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "centos中 flume+kafka 安装、配置和使用"
 date: 2017-04-27
